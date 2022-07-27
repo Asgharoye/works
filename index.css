@@ -1,0 +1,41 @@
+.m{
+    
+    text-align: center;
+}
+body{
+   
+    background:  linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url('d.jpg');
+    width: 100%px;
+    height: 100vh;
+  background-size: cover;
+  background-position: center;
+  
+} 
+h2 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-size: 50px;
+    font-style: italic;
+}
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+}
+p{
+    font-size: 30px;
+   font-style: initial;
+    color: rgb(17, 14, 14);
+    font-size: 30px;
+}
+h2{
+    color:rgb(20, 22, 19);
+}
+button{
+    border-radius: 20px;
+}
